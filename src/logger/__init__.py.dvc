@@ -1,0 +1,5 @@
+outs:
+- md5: b37c4b7ba324cf7f7ccfff150e6b80b0
+  size: 1480
+  hash: md5
+  path: __init__.py

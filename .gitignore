@@ -220,3 +220,7 @@ __marimo__/
 projectflow.txt
 cred.txt
 local_s3/
+data/raw
+data/interim
+data/processed
+models/
