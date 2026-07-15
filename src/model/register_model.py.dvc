@@ -1,5 +1,0 @@
-outs:
-- md5: 8c6b7faf97f09571300d39b6d7724afd
-  size: 3506
-  hash: md5
-  path: register_model.py

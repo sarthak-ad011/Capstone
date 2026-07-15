@@ -1,5 +1,0 @@
-outs:
-- md5: 918120a5941b89925576b7dd9ff307a2
-  size: 2075
-  hash: md5
-  path: s3_connection.py
