@@ -224,4 +224,4 @@ data/raw
 data/interim
 data/processed
 models/
-
+.env
