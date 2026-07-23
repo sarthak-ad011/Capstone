@@ -4,6 +4,6 @@ mlflow==3.14.0
 mlflow_skinny==3.14.0
 mlflow_tracing==3.14.0
 nltk==3.10.0
-numpy==1.24.3
+numpy==1.26.4
 pandas==2.0.3
 prometheus_client==0.25.0
